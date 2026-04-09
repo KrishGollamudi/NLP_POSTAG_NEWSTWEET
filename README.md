@@ -2,9 +2,9 @@
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-blue?style=for-the-badge)]([https://huggingface.co/spaces/Krishna9939/News-POS-Tagger])
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/Krishna9939/News-POS-Tagger)
 
-**Live Deployment:** [Access the Web Application via Hugging Face Spaces]([https://huggingface.co/spaces/Krishna9939/News-POS-Tagger])
+**Live Deployment:** [Access the Web Application via Hugging Face Spaces](https://huggingface.co/spaces/Krishna9939/News-POS-Tagger)
 
 ## Project Overview
 
