@@ -35,3 +35,13 @@ This project introduces a custom deep-learning architecture designed to bridge t
 | Standard BERT (`bert-base-uncased`) | 94.62% | None |
 | Plain BERTweet (`vinai/bertweet-base`) | 95.40% | Domain Pre-training Only |
 | **Proposed Advanced Model** | **95.86%** | **Isotropic Addition + LayerNorm** |
+
+## Installation and Local Usage
+## Model Weights
+Download the pre-trained weights (`advanced_pytorch_model.bin`) from [this Google Drive link](https://drive.google.com/file/d/1VuXXFTVmegOVJiJBNqpA5wCpFbPu6n-M/view?usp=drive_link) and place them in your root directory.
+To deploy the Streamlit inference engine locally:
+
+**1. Clone the repository:**
+```bash
+git clone [https://github.com/yourusername/News-Aware-POS-Tagger.git](https://github.com/yourusername/News-Aware-POS-Tagger.git)
+cd News-Aware-POS-Tagger
